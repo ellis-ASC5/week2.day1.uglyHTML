@@ -1,0 +1,54 @@
+body{
+    background: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Unica One', cursive;
+}
+.image{
+    
+    width: 180px;
+    float: left;
+    margin: 10px;
+}
+#many{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 540px;
+    display: block;
+}
+h2{
+    font-family: 'Unica One', cursive;
+}
+.watch_container{
+   overflow: auto;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 15px;
+   padding: 16px;
+    background-color: #1A1818;
+    border-radius: 13px;
+    border: 2px solid #fdefa6  
+}
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+    
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#bottom{
+    margin-bottom: 30px;
+}
